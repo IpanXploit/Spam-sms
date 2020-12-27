@@ -1,5 +1,5 @@
 # Hayooo mau recode kan lu ?
-# Tinggal pake aja anjing
+# Izin Dlu Ngab
 
 from bs4 import BeautifulSoup as bs
 import requests as req
@@ -15,17 +15,17 @@ purple = '\033[95m'
 cyan = '\033[96m'
 white = '\033[0;37m'
 off = '\033[m'
-
+bhs
 def main():
 	os.system('clear')
 	print(f'{cyan}  ___ ___  _____\n',
-	f'{cyan}|   Y   ||     | {white}https{yellow}:{white}//yvtix{yellow}.{white}xyz\n',
-	f'{cyan}|   1   ||  {white}°{cyan}  | {white}author{yellow}: {off}YutixCode\n',
+	f'{cyan}|   Y   ||     | {white}https{yellow}:{white}//Mr{yellow}.{white}S4NTUY\n',
+	f'{cyan}|   1   ||  {white}°{cyan}  | {white}author{yellow}: {off}Mr-S4ANTUY\n',
 	f'{cyan} \_   _/{red}.{white}^-----^{red}---.---.-.--------.\n',
 	f'{cyan}  |{white}:  {cyan}|{red}|   __|  _  |  _  |        |\n',
 	f'{cyan}  |{white}::.{cyan}|{red}|--   |   __|___._|__|__|__|\n',
 	f'{cyan}  `---´{red}`-----|__| {white}v1, perfect spam\n\n',
-	f'{purple}-> {white}Example{yellow}:{white} 082321404666',)
+	f'{purple}-> {white}Example{yellow}:{white} 089618394167',)
 	x = input(f'{purple} ->{white} Input number{yellow}:{white} ')
 	z = input(f'{purple} ->{white} Max send{yellow}:{white} ')
 	print()

@@ -15,7 +15,7 @@ purple = '\033[95m'
 cyan = '\033[96m'
 white = '\033[0;37m'
 off = '\033[m'
-bhU
+bh
 def main():
 	os.system('clear')
 	print(f'{cyan}  ___ ___  _____\n',

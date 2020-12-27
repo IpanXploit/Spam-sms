@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup as bs
 import requests as req
 import json, os, string, random, base64
 
-load =
+load =[]
 grey = '\033[1;90m'
 red = '\033[91m'
 green = '\033[92m'

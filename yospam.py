@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup as bs
 import requests as req
 import json, os, string, random, base64
 
-load = []
+load =
 grey = '\033[1;90m'
 red = '\033[91m'
 green = '\033[92m'
@@ -15,7 +15,7 @@ purple = '\033[95m'
 cyan = '\033[96m'
 white = '\033[0;37m'
 off = '\033[m'
-bh
+bhU
 def main():
 	os.system('clear')
 	print(f'{cyan}  ___ ___  _____\n',

@@ -20,7 +20,7 @@ def main():
 	os.system('clear')
 	print(f'{cyan}  ___ ___  _____\n',
 	f'{cyan}|   Y   ||     | {white}https{yellow}:{white}//Mr{yellow}.{white}S4NTUY\n',
-	f'{cyan}|   1   ||  {white}°{cyan}  | {white}author{yellow}: {off}Mr-S4ANTUY\n',
+	f'{cyan}|   1   ||  {white}°{cyan}  | {white}author{yellow}: {off}Mr-S4NTUY\n',
 	f'{cyan} \_   _/{red}.{white}^-----^{red}---.---.-.--------.\n',
 	f'{cyan}  |{white}:  {cyan}|{red}|   __|  _  |  _  |        |\n',
 	f'{cyan}  |{white}::.{cyan}|{red}|--   |   __|___._|__|__|__|\n',

@@ -50,7 +50,7 @@ class Akugans:
 		if "Succses" in ajig.text:
 			print(" \x1b[91m! \x1b[97mMaaf Error Silahkan Coba Lagi Nanti ")
 		else:
-			print(" \x1b[92m✓ \x1b[97mSent To \x1b[93m"+ ____code08____ +" \x1b[97m\x1b[101m Subscribe BlackIT \033[0m \x1b[92mSukses")
+			print(" \x1b[92m✓ \x1b[97mSent To \x1b[93m"+ ____code08____ +" \x1b[97m\x1b[101m Subscribe TUTORIAL ANDROID \033[0m \x1b[92mSukses")
 
 while True:
 	try:

